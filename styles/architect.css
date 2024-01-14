@@ -196,6 +196,15 @@ main{
     width: 165px;
 }
 
+/* footer style: */
+.footer-container{
+    background: pink;
+    text-align: center;
+    padding: 20px 100px;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+}
+
 /* responsive media query: */
 
 /* for mobile devices or small devices: */
